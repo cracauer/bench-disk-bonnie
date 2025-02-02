@@ -20,5 +20,5 @@ to unmount that filesystem, even if you don't succeed.
 zero and then back to the original value.
 
 If you can't drop the caches it is recommended to use the -s parameter
-to specify the test file size in gigabyte, using at least 1,5 times
+to specify the test file size in gigabyte, using at least 1.5 times
 your RAM.
